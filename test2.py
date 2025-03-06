@@ -1,2 +1,0 @@
-print("ef")
-a=input()
